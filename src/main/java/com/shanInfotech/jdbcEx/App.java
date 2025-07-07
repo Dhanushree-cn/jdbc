@@ -18,9 +18,9 @@ public class App {
         //con.close();
 	
 	public static void main(String []args)throws ClassNotFoundException,SQLException{
-		CreateTableStatement.createTable();
-		CreateTableStatement.alterTable();
-		CreateTableStatement.insertTable();
+		//CreateTableStatement.createTable();
+		//CreateTableStatement.alterTable();
+		//CreateTableStatement.insertTable();
 		//CreateTableStatement.deleteTable();
 		//CreateTableStatement.updateTable();
 		
